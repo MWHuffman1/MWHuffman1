@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MWHuffman1
 - 👀 I’m interested in spatial data and sports analytics
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently diving into Python, R, and SQL.
 - 📫 How to reach me @mhuffman83 on twitter.
 
 <!---
